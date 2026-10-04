@@ -1,10 +1,9 @@
-# microsoft-tools-for-security-engineers
+# Microsoft-tools-for-security-engineers
 List of most used tools in Microsoft ecosystem for Security Analyst and Security Engineers
 
 
-Yes. If your goal is **Security Analyst → Security Engineer → eventually Security Lead**, you don't need to learn every Azure service. You should focus on the security stack that covers **identity, SIEM, XDR, endpoint, cloud, vulnerability management, data protection, and automation**.
+If your goal is **Security Analyst → Security Engineer → eventually Security Lead**, you don't need to learn every Azure service. You should focus on the security stack that covers **identity, SIEM, XDR, endpoint, cloud, vulnerability management, data protection, and automation**.
 
-Since you're already working with Wazuh, Splunk, SentinelOne, Rapid7, Netskope, and you're studying SC-500, I'd structure Azure security like this:
 
 ## The Microsoft Security stack you should know
 
